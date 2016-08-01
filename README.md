@@ -1,3 +1,5 @@
+> This project is now part of [Navigation Helpers](https://github.com/criticalmash/navigation-helpers)
+
 # handlebars-collectionquery
 Handlebars helper for searching collections
 
